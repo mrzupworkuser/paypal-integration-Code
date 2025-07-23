@@ -1,26 +1,3 @@
-# Laravel PayPal
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Setup](#setup)
-- [Configuration](#configuration)
-- [Express Checkout](#express-checkout)
-- [Override PayPal API Configuration](#override-api-configuration)
-- [Set Currency](#set-currency)
-- [Refund Transaction](#refund-transaction)
-- [Recurring Payments Profile](#recurring-payment-profile)
-- [Adaptive Payments](#adaptive-payments)
-- [Handling PayPal IPN](#paypalipn)
-- [Creating Subscriptions](#create-subscriptions)
-
-<a name="introduction"></a>
-## Introduction
-
-By using this plugin you can process or refund payments and handle IPN (Instant Payment Notification) from PayPal in your Laravel application.
-
-**Currently only PayPal Express Checkout API Is Supported.**
-
-<a name="installation"></a>
 ## Installation
 
 * Use following command to install:
